@@ -1,0 +1,5 @@
+Failed to disable unit: Unit pulseaudio.socket does not exist
+Created symlink '/home/cazzano/.config/systemd/user/pipewire-session-manager.service' → '/usr/lib/systemd/user/wireplumber.service'.
+Created symlink '/home/cazzano/.config/systemd/user/pipewire.service.wants/wireplumber.service' → '/usr/lib/systemd/user/wireplumber.service'.
+
+[32m[OK](B[m Pipewire Installation and services setup complete!
