@@ -1,0 +1,10 @@
+[32m[OK](B[m - Found sddm-sequoia in assets folder, using that instead of cloning.
+[33m[NOTE](B[m - Backing up existing sequoia_2 theme.
+[32m[OK](B[m - Backed up existing theme to sequoia_2_backup_20250518022910.
+[32m[OK](B[m - Theme copied to /usr/share/sddm/themes/sequoia_2.
+[33m[NOTE](B[m Setting up the login screen.
+Backing up files in /etc/sddm.conf.d
+Backup created for /etc/sddm.conf.d/theme.conf.user
+Skipping backup file: /etc/sddm.conf.d/theme.conf.user.bak
+/etc/sddm.conf.d/theme.conf.user already exists, skipping creation.
+[32m[OK](B[m - [35mAdditional SDDM Theme(B[m successfully installed.

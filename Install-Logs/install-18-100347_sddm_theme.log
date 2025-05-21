@@ -1,0 +1,8 @@
+[32m[OK](B[m - Found sddm-sequoia in assets folder, using that instead of cloning.
+[32m[OK](B[m - Theme copied to /usr/share/sddm/themes/sequoia_2.
+[33m[NOTE](B[m Setting up the login screen.
+Backing up files in /etc/sddm.conf.d
+Backup created for /etc/sddm.conf.d/kde_settings.conf
+Updated theme in /etc/sddm.conf.d/kde_settings.conf
+Created and configured /etc/sddm.conf.d/theme.conf.user with theme sequoia_2
+[32m[OK](B[m - [35mAdditional SDDM Theme(B[m successfully installed.

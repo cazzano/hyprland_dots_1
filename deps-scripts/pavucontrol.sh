@@ -1,0 +1,1 @@
+sudo pacman -Sw pavucontrol gcc-libs  glib2  glibc  glibmm-2.68  gtk4  gtkmm-4.0  json-glib  libcanberra  libpulse  libsigc++-3.0

@@ -1,0 +1,6 @@
+[32m[OK][m - Found sddm-sequoia in assets folder, using that instead of cloning.
+[32m[OK][m - Theme copied to /usr/share/sddm/themes/sequoia_2.
+[33m[NOTE][m Setting up the login screen.
+[36m[ACTION][m - /etc/sddm.conf.d not found, creating...
+Created and configured /etc/sddm.conf.d/theme.conf.user with theme sequoia_2
+[32m[OK][m - [35mAdditional SDDM Theme[m successfully installed.

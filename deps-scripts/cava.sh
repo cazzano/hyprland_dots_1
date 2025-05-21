@@ -1,0 +1,1 @@
+sudo pacman -Sw cava fftw  glibc  iniparser  alsa-lib  jack  libpipewire  libpulse  portaudio  sndio  ncurses  sdl2

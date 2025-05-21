@@ -1,0 +1,9 @@
+[34m[INFO](B[m Package aylurs-gtk-shell not installed, skipping.
+[34m[INFO](B[m Package dunst not installed, skipping.
+[34m[INFO](B[m Package cachyos-hyprland-settings not installed, skipping.
+[34m[INFO](B[m Package mako not installed, skipping.
+[33m[NOTE](B[m removing rofi ...
+error: target not found: rofi
+[34m[INFO](B[m Package wallust-git not installed, skipping.
+[34m[INFO](B[m Package rofi-lbonn-wayland not installed, skipping.
+[34m[INFO](B[m Package rofi-lbonn-wayland-git not installed, skipping.

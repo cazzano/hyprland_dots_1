@@ -1,0 +1,1 @@
+sudo pacman -Sw gvfs dconf  fuse3  gcc-libs  gcr-4  glib2  glibc  gsettings-desktop-schemas  libarchive  libbluray  libcdio  libcdio-paranoia  libgcrypt  libgudev  libsecret  libsoup3  polkit  procps-ng  systemd  systemd-libs  udisks2

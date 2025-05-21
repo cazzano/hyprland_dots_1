@@ -1,0 +1,1 @@
+sudo pacman -Sw hyprpolkitagent gcc-libs  glibc  hyprutils  libhyprutils.so  polkit-qt6  qt6-base  qt6-declarative

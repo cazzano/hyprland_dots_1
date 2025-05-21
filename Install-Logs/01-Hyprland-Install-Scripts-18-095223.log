@@ -1,0 +1,1 @@
+[31m[ERROR](B[m PulseAudio is detected as installed. Uninstall it first or edit install.sh on line 211 (execute_script 'pipewire.sh').

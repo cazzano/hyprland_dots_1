@@ -1,0 +1,1 @@
+sudo pacman -Sw rofi-wayland bash  cairo  gdk-pixbuf2  glib2  glibc  hicolor-icon-theme  libxcb  libxkbcommon  libxkbcommon-x11  pango  startup-notification  wayland  xcb-imdkit  xcb-util  xcb-util-cursor  xcb-util-keysyms  xcb-util-wm
